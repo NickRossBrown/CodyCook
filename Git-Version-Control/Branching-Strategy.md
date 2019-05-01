@@ -23,6 +23,8 @@
 ### Master and develop branches
 <hr>
 
+- Never directly push to 
+
 
 [⬆ Back to top](#table-of-contents)
 <hr>
@@ -38,7 +40,7 @@
 ### Develop Branch
 <hr>
 
-- 
+
 
 [⬆ Back to top](#table-of-contents)
 <hr>
