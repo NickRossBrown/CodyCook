@@ -1,1 +1,4 @@
-feature 3
+<<feature3
+
+feature 2
+develop
