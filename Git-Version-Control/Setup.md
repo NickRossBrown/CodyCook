@@ -42,6 +42,7 @@ $ git config user.name
 tutorial link for user name + user email setup
 - https://alvinalexander.com/git/git-show-change-username-email-address
 
+- open ~/.gitconfig file to configure the settings
 [⬆ Back to top](#table-of-contents)
 
 <hr>
